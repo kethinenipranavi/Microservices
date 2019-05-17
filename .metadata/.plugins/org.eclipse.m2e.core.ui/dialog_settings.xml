@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\pranavi\microservices\movie-catalog-eureka-server"/>
+			<item value="C:\pranavi\microservices\movie-rating-service"/>
+			<item value="C:\pranavi\microservices\movie-infoservice"/>
+			<item value="C:\pranavi\microservices\movie-catalog"/>
+			<item value="C:\pranavi\microservices\CurrencyConversionMS"/>
+			<item value="C:\pranavi\microservices\SpringBootMicroservices"/>
+			<item value="C:\pranavi\microservices\transactionservice-master"/>
+			<item value="C:\pranavi\microservices\bankapp-angular"/>
+			<item value="C:\pranavi\microservices\bankapp-transactionservice"/>
+			<item value="C:\pranavi\microservices\accountservice-master"/>
+			<item value="C:\pranavi\microservices\bank.app"/>
+			<item value="C:\pranavi\microservices\bank.app1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

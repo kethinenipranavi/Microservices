@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="movie-catalog-eureka-server"/>
+<aop-project name="bankapp-transactionservice"/>
+<aop-project name="movie-catalog"/>
+<aop-project name="transactionservice-master"/>
+<aop-project name="CurrencyConversionMS"/>
+<aop-project name="movie-infoservice"/>
+<aop-project name="movie-rating-service"/>
+<aop-project name="bank.app"/>
+<aop-project name="SpringBootMicroservices"/>
+</aop-reference-model>

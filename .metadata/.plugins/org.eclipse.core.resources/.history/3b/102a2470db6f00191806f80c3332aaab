@@ -1,0 +1,5 @@
+package com.capgemini.SpringBootMicroservices.entity;
+
+public class ExchangeValue {
+
+}
